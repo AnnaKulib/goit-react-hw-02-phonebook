@@ -1,0 +1,15 @@
+.section {
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px 15px;
+  background-color: rgba(160, 138, 239, 0.178);
+}
+
+.title {
+  display: block;
+  width: max-content;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #5210cd;
+  font-weight: bold;
+}
